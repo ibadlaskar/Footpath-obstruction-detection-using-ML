@@ -1,0 +1,12 @@
+ultralytics==8.4.14
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+streamlit==1.32.0
+opencv-python==4.8.0.76
+pandas==2.0.0
+plotly==5.18.0
+fpdf2==2.7.0
+pillow==10.0.0
+numpy==1.26.4
+pyyaml==6.0.1
