@@ -291,8 +291,8 @@ SAFETY_RECOMMENDATIONS = {
     ],
 }
 
-FOOTPATH_MODEL_PATH = r"runs\segment\model\footpath_segment\weights\best.pt"
-HAZARD_MODEL_PATH   = r"runs\detect\weights\best.pt"
+FOOTPATH_MODEL_PATH = "runs/segment/model/footpath_segment/weights/best.pt"
+HAZARD_MODEL_PATH   = "runs/detect/weights/best.pt"
 HISTORY_PATH        = "history/detection_log.json"
 
 MASK_BINARY_THRESHOLD       = 0.45

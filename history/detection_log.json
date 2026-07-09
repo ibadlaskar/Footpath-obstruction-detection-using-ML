@@ -1021,5 +1021,60 @@
     "x2": 106,
     "y2": 200,
     "source": "61_jpg.rf.bea5d8ed159a100d4d4af00bc0dde365.jpg"
+  },
+  {
+    "class": "vehicle",
+    "confidence": 0.821,
+    "severity": "HIGH",
+    "timestamp": "2026-07-09 15:52:02",
+    "x1": 88,
+    "y1": 185,
+    "x2": 253,
+    "y2": 424,
+    "source": "WhatsApp Image 2025-12-04 at 8.39.32 PM.jpeg"
+  },
+  {
+    "class": "light_pole",
+    "confidence": 0.712,
+    "severity": "LOW",
+    "timestamp": "2026-07-09 15:52:02",
+    "x1": 376,
+    "y1": 0,
+    "x2": 431,
+    "y2": 805,
+    "source": "WhatsApp Image 2025-12-04 at 8.39.32 PM.jpeg"
+  },
+  {
+    "class": "light_pole",
+    "confidence": 0.504,
+    "severity": "LOW",
+    "timestamp": "2026-07-09 15:52:02",
+    "x1": 375,
+    "y1": 0,
+    "x2": 452,
+    "y2": 799,
+    "source": "WhatsApp Image 2025-12-04 at 8.39.32 PM.jpeg"
+  },
+  {
+    "class": "vehicle",
+    "confidence": 0.821,
+    "severity": "HIGH",
+    "timestamp": "2026-07-09 15:52:19",
+    "x1": 88,
+    "y1": 185,
+    "x2": 253,
+    "y2": 424,
+    "source": "WhatsApp Image 2025-12-04 at 8.39.32 PM.jpeg"
+  },
+  {
+    "class": "light_pole",
+    "confidence": 0.712,
+    "severity": "LOW",
+    "timestamp": "2026-07-09 15:52:19",
+    "x1": 376,
+    "y1": 0,
+    "x2": 431,
+    "y2": 805,
+    "source": "WhatsApp Image 2025-12-04 at 8.39.32 PM.jpeg"
   }
 ]
